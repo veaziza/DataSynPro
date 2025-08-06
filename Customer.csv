@@ -1,0 +1,24 @@
+customer_id,first_name,last_name,email,gender,dob,country,state,sign_up_date,last_logged
+1,John,Doe,john.doe@step2c-corp.com,Male,1/5/1990,USA,California,6/15/2022,10/1/2024
+2,Jane,Smith,jane.smith@step2c-corp.com,Female,7/23/1985,USA,Texas,8/10/2022,9/25/2024
+3,Michael,Brown,michael.brown@step2c-corp.com,Male,3/11/1992,USA,New York,1/12/2023,8/15/2024
+4,Emily,Johnson,emily.johnson@step2c-corp.com,Female,12/5/1988,USA,Florida,4/18/2022,9/30/2024
+5,Daniel,Davis,daniel.davis@step2c-corp.com,Male,11/30/1995,USA,Illinois,3/22/2023,9/28/2024
+6,Olivia,Lee,olivia.lee@step2c-corp.com,Female,2/16/1991,Canada,Ontario,12/20/2022,10/5/2024
+7,Liam,Martin,liam.martin@step2c-corp.com,Male,9/7/1993,Canada,Quebec,6/5/2023,8/10/2024
+8,Sophia,Clark,sophia.clark@step2c-corp.com,Female,8/15/1987,Canada,British Columbia,1/25/2023,9/15/2024
+9,Ethan,Taylor,ethan.taylor@step2c-corp.com,Male,4/10/1996,Canada,Alberta,10/9/2022,10/8/2024
+10,Isabella,White,isabella.white@step2c-corp.com,Female,6/29/1989,Canada,Manitoba,5/18/2022,NULL
+11,James,Williams,james.williams@step2c-corp.com,Male,5/25/1994,UK,London,2/14/2023,8/20/2024
+12,Charlotte,Harris,charlotte.harris@step2c-corp.com,Female,7/17/1993,UK,Manchester,9/10/2022,NULL
+13,Rajesh,Kumar,rajesh.kumar@step2c-corp.com,Male,12/11/1990,India,Karnataka,NULL,10/2/2024
+14,Neha,Sharma,neha.sharma@step2c-corp.com,Female,3/3/1992,India,Maharashtra,11/22/2022,9/15/2024
+15,Ravi,Patel,ravi.patel@step2c-corp.com,Male,10/21/1986,India,Gujarat,5/12/2023,9/5/2024
+1,John,Doe,john.doe@step2c-corp.com,Male,1/5/1990,USA,California,6/15/2022,10/1/2024
+16,Alice,Cooper,NULL,Female,5/10/1991,USA,Texas,2/1/2023,10/1/2024
+7,John,Smith,john.smith@step2c-corp.com,Male,8/10/1995,Canada,Ontario,3/15/2023,NULL
+8,Daniel,Davis,daniel.davis@step2c-corp.com,Male,11/30/1995,USA,Illinois,3/22/2023,9/28/2024
+19,NULL,Smith,emily.smith@step2c-corp.com,Female,8/14/1992,UK,London,1/12/2023,NULL
+NULL,Michael,Brown,michael.brown@step2c-corp.com,Male,3/11/1992,USA,New York,1/12/2023,8/15/2024
+20,Sarah,Connor,sarah.connor@invalid@domain,Female,6/22/1993,USA,Washington,1/15/2023,9/30/2024
+21,Bruce,Wayne,bruce.wayne_no_at_sign.com,Male,9/9/1985,UK,London,3/19/2023,8/29/2024

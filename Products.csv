@@ -1,0 +1,19 @@
+product_id,product_name,category_id,list_price,buying_price,organization_id,course_type,created_at,updated_at
+1,Azure Fundamentals App,1,50,30,1,App  ,1/15/2023,10/1/2023
+2,SQL Mastery App,1,45,27,1,App  ,2/10/2023,10/5/2023
+3,  Data Science E-book,2,8,4.5,2,E-book ,3/5/2023,9/20/2023
+4, Cloud Computing E-book,2,9,5,2,E-book,4/10/2023,10/7/2023
+5,Advanced SQL Course,3,75,40,3, Video Course,1/20/2023,10/1/2023
+6,Alteryx Training Course,3,65,38,,Video Course,2/15/2023,10/10/2023
+7,Azure Solutions Software,4,-250,180,4,Software,5/1/2023,9/25/2023
+8,SQL Server Pro Software,4,,210,4,Software,6/15/2023,10/9/2023
+9,Data Analytics Course,3,80,50,3,Practice Test,7/5/2023,10/10/2023
+10,Python Programming Course,NULL,70,45,2,Video Course,9/5/2023,10/1/2023
+11,NULL,2,100,50,1,App,8/1/2023,9/28/2023
+12,DevOps Mastery Software,4,500,350,4,Software,7/20/2023,10/11/2023
+13,Cloud Computing Advanced Course,3,200,0,1,Video Course,7/1/2023,10/2/2023
+14,SQL Basics Course,3,60,,3,Video Course,8/15/2023,10/10/2023
+15,DevOps Basics,4,400,-300,,Software,9/1/2023,10/12/2023
+1,Azure Fundamentals App,1,50,30,1,App,1/15/2023,10/1/2023
+1,Azure Fundamentals App,1,50,30,1,App,1/15/2023,10/1/2023
+,,2,100,50,1,App,8/1/2023,9/28/2023
